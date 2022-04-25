@@ -264,9 +264,9 @@ Given that the joint proposal impacts the Membership Tier changes, if there are 
 
 ## Proposed amendment to Governance of the SuperUMAn DAO
 
-**(The following should be added within ‘Mechanism for Confirming Tier changes’
+**(The following should be added within ‘Mechanism for Confirming Tier changes’**
 
-after point 1. ‘UMAsters nomination process’.)**
+**after point 1. ‘UMAsters nomination process’.)**
 
 2. Starting alongside UMAster nominations, the nominations for Core SuperUMAns open for 5 days and will be indicated by a self-nomination process through emoji. The Operations team has a buffer of up to 1 day afterwards to collect a testimonial from 1 UMAster and 1 other SuperUMAn for approval of each self-nomination. A 24 hour emoji based poll for each SuperUMAn promotion to Core SuperUMAn, is organized by Operations Team by combining the two testimonials. A minimum of 8 emoji responses, 5 from UMAsters and 3 from SuperUMAns, is required in order for the SuperUMAn to be added to the proposal as a Core SuperUMAn.
 
