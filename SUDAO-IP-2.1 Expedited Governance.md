@@ -80,9 +80,13 @@ A formal proposal shall be submitted on Discourse with a poll consisting of the 
 - No
 
 There must be a minimum endorsement from 5 UMAsters, and;
+
 The quorum of the proposal is raised to 50%, and is limited to active UMAsters and SuperUMAns only, and;
+
 The passing vote needs to be a supermajority (67% or above).
+
 The poll run length is reduced to 48 hours.
+
 In the event that at the end of the poll run time the quorum, endorsement or passing vote requirements are not met, the proposal is considered Failed (see ‘Failed Proposals under Expedited Governance’).
 
 **Stage 4 - Snapshot Proposal**
@@ -90,8 +94,11 @@ In the event that at the end of the poll run time the quorum, endorsement or pas
 Provided that the criteria for passing Stage 3 of the proposal is met, then the proposal shall be posted on Snapshot following the same formatting guidelines as Regular Governance with the additional criteria:
 
 The quorum for the Snapshot vote is 75% of the voters who have voted previously from Stage 3, and;
+
 The threshold for a passing vote is 80%.
+
 The Snapshot run length is reduced to 48 hours.
+
 In the event that at the end of the poll run time the quorum or passing vote requirements are not met, the proposal is considered Failed (see ‘Failed Proposals under Expedited Governance’).
 
 **Failed Proposals under Expedited Governance**
