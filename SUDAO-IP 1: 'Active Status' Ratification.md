@@ -96,146 +96,146 @@ This document will be posted in the SuperUMAn DAO discord for 1 week before goin
 
 **Semi active (5)**
 
-JJC
-Tomo
-UMA verse
-Walter Wolf
-Tenzent
+- JJC
+- Tomo
+- UMA verse
+- Walter Wolf
+- Tenzent
 
 **Inactive (17)**
 
-eq (10/08/21)
-Adrian | DFX (06/07/21)
-Angrydeer (08/12/21)
-Ap0ll0517.eth (11/03/21)
-Cryptouf (10/10/21)
-DAO Jones (06/27/21)
-Edsonalcala (10/14/21)
-Feddas (08/20/21)
-Indigo (08/04/21)
-Jzjallday (09/03/21)
-Momomo (11/14/21)
-Orbby12 (10/19/21)
-ProjectEqual (10/01/21)
-Rielyc01 (06/14/21)
-Supachimp (10/05/21)
-Tacocat (10/20/21)
-Tritium ((07/20/21)
+- eq (10/08/21)
+- Adrian | DFX (06/07/21)
+- Angrydeer (08/12/21)
+- Ap0ll0517.eth (11/03/21)
+- Cryptouf (10/10/21)
+- DAO Jones (06/27/21)
+- Edsonalcala (10/14/21)
+- Feddas (08/20/21)
+- Indigo (08/04/21)
+- Jzjallday (09/03/21)
+- Momomo (11/14/21)
+- Orbby12 (10/19/21)
+- ProjectEqual (10/01/21)
+- Rielyc01 (06/14/21)
+- Supachimp (10/05/21)
+- Tacocat (10/20/21)
+- Tritium ((07/20/21)
 
 **Stepped down or left the Discord (4)**
 
-0xEvan(stepped down)
-Bitznbrew(stepped down)
-Chillzone(left)
-Noel(left)
+- 0xEvan(stepped down)
+- Bitznbrew(stepped down)
+- Chillzone(left)
+- Noel(left)
 
 ## Recruits (25)
 **Active (18)**
 
-Gr8ness
-Sofiat
-Victor Fela
-AH_Wolf
-David (please DYOR…)
-Lystic
-Gmsteele
-smiley7
-fiyin
-markh.eth
-samsmith
-Teefah
-aakansha.eth
-efosa
-SBSINGH
-Kyon.Ada
-ByrontheArtist
-Adeleke
+- Gr8ness
+- Sofiat
+- Victor Fela
+- AH_Wolf
+- David (please DYOR…)
+- Lystic
+- Gmsteele
+- smiley7
+- fiyin
+- markh.eth
+- samsmith
+- Teefah
+- aakansha.eth
+- efosa
+- SBSINGH
+- Kyon.Ada
+- ByrontheArtist
+- Adeleke
 
 **Inactive (6)**
 
-Siapalo
-Blacktv
-Birchskin
-Buy
-Lawrence
-3scavli3r
+- Siapalo
+- Blacktv
+- Birchskin
+- Buy
+- Lawrence
+- 3scavli3r
 
 ## Honorary DAO-plomats (48)
 
 **Active (4)**
 
-Crusher
-Tap.eth
-Britt | UMA (non-eligible)
-BabySpoox | UMA (non-eligible)
+- Crusher
+- Tap.eth
+- Britt | UMA (non-eligible)
+- BabySpoox | UMA (non-eligible)
 
 **Semi-active (6)**
 
-Ernest_of_Gaia
-Fran
-Frogmonkee
-Icarusz
-Motif
-Tobowers
+- Ernest_of_Gaia
+- Fran
+- Frogmonkee
+- Icarusz
+- Motif
+- Tobowers
 
 **Inactive (39)**
 
-Omen (11/15/21)
-0xNacho (No info)
-Acesontop (10/10/21)
-Alex Wilson (04/02/21)
-AlexEKoren (no info)
-Arosh (no info)
-Beeradley (no info)
-Brag (08/07/21)
-CarelessDoge (11/03/21)
-Devinaconley (no info)
-Dunks411 (10/28/21)
-Giantkin (11/02/21)
-Huxwell (10/21/21)
-Jonto (07/23/21)
-Joshf (no info)
-Joyce (09/21/21)
-Matz (11/15/21)
-Messchen (09/15/21)
-MrMeridian (11/09/21)
-Nico (10/28/21)
-Noema (10/27/21)
-Paul_apivat (08/11/21)
-Pepperoni Jo3 (11/23/21)
-Rliriano (09/12/21)
-Sponge (09/29/21)
-Steffen (10/01/21)
-ReconLion(no info)
-Thesmith (11/09/21)
-Tritium (07/20/21)
-Twilight Pirate (09/30/21)
-Wezek (07/20/21)
-Willyfox (10/31/21)
-Yonks (09/20/21)
-Angyts.eth (08/10/21) (retain)
-Chris2F (07/23/21) (retain)
-Eagle (11/14/21) (retain)
-Erin Dana (11/19/21) (retain)
-HowToRep (11/05/21) (retain)
-Joe.78 (10/09/21) (retain)
-Tanman (09/28/21) (retain)
+- Omen (11/15/21)
+- 0xNacho (No info)
+- Acesontop (10/10/21)
+- Alex Wilson (04/02/21)
+- AlexEKoren (no info)
+- Arosh (no info)
+- Beeradley (no info)
+- Brag (08/07/21)
+- CarelessDoge (11/03/21)
+- Devinaconley (no info)
+- Dunks411 (10/28/21)
+- Giantkin (11/02/21)
+- Huxwell (10/21/21)
+- Jonto (07/23/21)
+- Joshf (no info)
+- Joyce (09/21/21)
+- Matz (11/15/21)
+- Messchen (09/15/21)
+- MrMeridian (11/09/21)
+- Nico (10/28/21)
+- Noema (10/27/21)
+- Paul_apivat (08/11/21)
+- Pepperoni Jo3 (11/23/21)
+- Rliriano (09/12/21)
+- Sponge (09/29/21)
+- Steffen (10/01/21)
+- ReconLion(no info)
+- Thesmith (11/09/21)
+- Tritium (07/20/21)
+- Twilight Pirate (09/30/21)
+- Wezek (07/20/21)
+- Willyfox (10/31/21)
+- Yonks (09/20/21)
+- Angyts.eth (08/10/21) (retain)
+- Chris2F (07/23/21) (retain)
+- Eagle (11/14/21) (retain)
+- Erin Dana (11/19/21) (retain)
+- HowToRep (11/05/21) (retain)
+- Joe.78 (10/09/21) (retain)
+- Tanman (09/28/21) (retain)
 
 ## UMIP Review
 
-Yuen
-Hexi
-Anu
+- Yuen
+- Hexi
+- Anu
 
 ## Bounty Hunters
 
-Zapata
-Rau
+- Zapata
+- Rau
 
 ## Alumni
 
-0xEvan
-BitznBrew
+- 0xEvan
+- BitznBrew
 
 ## ‘Core SuperUMAns’ Process:
 
