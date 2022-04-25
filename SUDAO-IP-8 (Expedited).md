@@ -16,7 +16,7 @@ A total of 5,500 KPI options are being requested.
 
 ## DAO Balance & Specifications:
 
-75,000 KPI Options have been minted and distributed as ratified in [SUDAO-IP-3]9https://discourse.superumans.xyz/t/sudao-ip-3-superuman-dao-budget-and-compensation-plan-passed/567).
+75,000 KPI Options have been minted and distributed as ratified in [SUDAO-IP-3](https://discourse.superumans.xyz/t/sudao-ip-3-superuman-dao-budget-and-compensation-plan-passed/567).
 
 49,550 KPI Options have been distributed to DAO members as KPI Options compensation as ratified in SUDAO-IP-3.
 
