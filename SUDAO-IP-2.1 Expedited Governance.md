@@ -49,24 +49,30 @@ The governance mechanism consists of 2 tracks:
 2. **Fast Track / Expedited Governance** for eligible proposals that are of significant importance and under circumstances considered urgent to be ratified quickly.
 
 **Normal Track / Regular Governance**
+
 `Original text in the Principle document goes here.`
 
 **Fast Track / Expedited Governance**
+
 Under this track, proposals can be brought forward (expedited) for quicker deliberation, voting, and ratification, with an expected minimum time of 4 days from start to finish. Like Regular Governance, the platforms for governance (Discord, Discourse and Snapshot) will not change, but some stages can be omitted but with a higher criteria for quorum and passing vote.
 
 **Exclusions**
+
 Proposals which modify the following:
 - a. Proposals for membership status changes;
 - b. Proposals for compensation level changes.
 These are not eligible for expedited governance.
 
 **Stage 1 - Declaration**
+
 The Optional Temp Check is omitted in this track. However, the author must declare in the beginning of the proposal that they intend to submit their proposal under the Expedited Governance track.
 
 **Stage 2 - Signal**
+
 This stage is omitted under Expedited Governance.
 
 **Stage 3 - Formal Proposal**
+
 A formal proposal shall be submitted on Discourse with a poll consisting of the following:
 
 - Yes (or various proposed Options)
@@ -80,6 +86,7 @@ The poll run length is reduced to 48 hours.
 In the event that at the end of the poll run time the quorum, endorsement or passing vote requirements are not met, the proposal is considered Failed (see ‘Failed Proposals under Expedited Governance’).
 
 **Stage 4 - Snapshot Proposal**
+
 Provided that the criteria for passing Stage 3 of the proposal is met, then the proposal shall be posted on Snapshot following the same formatting guidelines as Regular Governance with the additional criteria:
 
 The quorum for the Snapshot vote is 75% of the voters who have voted previously from Stage 3, and;
@@ -88,6 +95,7 @@ The Snapshot run length is reduced to 48 hours.
 In the event that at the end of the poll run time the quorum or passing vote requirements are not met, the proposal is considered Failed (see ‘Failed Proposals under Expedited Governance’).
 
 **Failed Proposals under Expedited Governance**
+
 If the proposal has Failed at any stage, the proposal is not eligible to be resubmitted under the Expedited Governance track.
 
 **End**
