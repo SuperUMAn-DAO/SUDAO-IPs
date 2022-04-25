@@ -1,6 +1,4 @@
-## SUDAO-IP 1
-
-**Active Status**
+## SUDAO-IP 1 'Active Status' Ratification
 
 ## Rationale
 
@@ -22,79 +20,79 @@ This document will be posted in the SuperUMAn DAO discord for 1 week before goin
 
 **Key**
 
-*Inactive - Has not typed in the Discord in at least 4-6 weeks, the latter half of the last epoch, and is ineligible for compensation. (Their last active date is noted next to their name)
+- Inactive - Has not typed in the Discord in at least 4-6 weeks, the latter half of the last epoch, and is ineligible for compensation. (Their last active date is noted next to their name)
 
-*Semi-Active - Has typed within the last month but has been infrequent; ineligible for compensation.
+- Semi-Active - Has typed within the last month but has been infrequent; ineligible for compensation.
 
-*Active - Has been actively participating within the last month in discord; eligible for compensation.
+- Active - Has been actively participating within the last month in discord; eligible for compensation.
 
-*Retain - Honorary DAOplomats that have gone inactive but bring enough value to be reached out to if they haven’t opted in for KPI options.
+- Retain - Honorary DAOplomats that have gone inactive but bring enough value to be reached out to if they haven’t opted in for KPI options.
 
-*Inactive Honorary DAOplomats will have to ‘opt-in’ through Discord emoji reaction by a certain deadline, to join the SuperUMAn DAO (qualifying them for Basic member KPI Options, shared between Recruits and Alumni).
+- Inactive Honorary DAOplomats will have to ‘opt-in’ through Discord emoji reaction by a certain deadline, to join the SuperUMAn DAO (qualifying them for Basic member KPI Options, shared between Recruits and Alumni).
 
-*Alumni - SuperUMAns that have stepped down from their position.
+- Alumni - SuperUMAns that have stepped down from their position.
 
-*Bounty Hunter - Those who join the DAO to perform a paid task such as dev work but wouldnt be considered recruits. They can opt-in for recruit status as there would be value to recruit them into the DAO.
+- Bounty Hunter - Those who join the DAO to perform a paid task such as dev work but wouldnt be considered recruits. They can opt-in for recruit status as there would be value to recruit them into the DAO.
 
-*UMIP Review - Either a member or former member of the UMIP review team who would be able to opt-in for recruit rewards. Will reach out to inform of the DAO interest on having them on board and to opt-in if interested.
+- UMIP Review - Either a member or former member of the UMIP review team who would be able to opt-in for recruit rewards. Will reach out to inform of the DAO interest on having them on board and to opt-in if interested.
 
-*UMAsters can comprise up to 20% of the DAO.
+- UMAsters can comprise up to 20% of the DAO.
 
-*Core - it relates to the splitting of SuperUMAns into “core” and “ordinary” based off of last epochs compensation tier list.
+- Core - it relates to the splitting of SuperUMAns into “core” and “ordinary” based off of last epochs compensation tier list.
 
-*UMA - SuperUMAns that have been promoted to UMA team member aren’t eligible for SU compensation after clarifying with Clayton | UMA. Will move them to Honorary DAOplomat status with other UMA team members that are involved with the DAO and are ineligible for compensation.
+- UMA - SuperUMAns that have been promoted to UMA team member aren’t eligible for SU compensation after clarifying with Clayton | UMA. Will move them to Honorary DAOplomat status with other UMA team members that are involved with the DAO and are ineligible for compensation.
 
 ## UMAsters (19)
 
 **Active (18)**
 
-AbsoluteUnit
-Coach
-Deadcoin
-EAsports
-Ericbal
-Henrystats
-Fruitycup
-Inalittlewhile
-JBamadeus
-Mide
-Neondaemon
-Poapster
-Ponmile
-PVMihalache
-SurfTranquille
-Therealtuna
-Timigraphicks
-Wraithers
+- AbsoluteUnit
+- Coach
+- Deadcoin
+- EAsports
+- Ericbal
+- Henrystats
+- Fruitycup
+- Inalittlewhile
+- JBamadeus
+- Mide
+- Neondaemon
+- Poapster
+- Ponmile
+- PVMihalache
+- SurfTranquille
+- Therealtuna
+- Timigraphicks
+- Wraithers
 
 **Inactive (1)**
 
-SeanG (11/12/21)
+- SeanG (11/12/21)
 
 ## SuperUMAns (46)
 
 **Active (20)**
 
-Alex - Documentor
-Arcology
-Berry
-Crushhhh (currently Core)
-Doubledee
-EverythingBlockChain (currently Core)
-Gruad
-Hiten
-Hash-error (currently Core)
-Heruvim78
-Kris (currently Core)
-Mazygio (currently Core)
-Nithin shylendra (currently Core)
-rHorse (currently Core)
-Shellpen
-ShroomPOWER (aka PowerVesting)
-Thatcryptogal
-Zer8
-0xMitz
-MANUEL
+- Alex - Documentor
+- Arcology
+- Berry
+- Crushhhh (currently Core)
+- Doubledee
+- EverythingBlockChain (currently Core)
+- Gruad
+- Hiten
+- Hash-error (currently Core)
+- Heruvim78
+- Kris (currently Core)
+- Mazygio (currently Core)
+- Nithin shylendra (currently Core)
+- rHorse (currently Core)
+- Shellpen
+- ShroomPOWER (aka PowerVesting)
+- Thatcryptogal
+- Zer8
+- 0xMitz
+- MANUEL
 
 **Semi active (5)**
 
