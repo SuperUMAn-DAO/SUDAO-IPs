@@ -8,7 +8,7 @@ The reason Active Status is important is because it provides a way to separate i
 
 ## Content of the Proposal:
 
-The Active Status list!:
+**The Active Status list!:**
 
 This list is to give us an accurate account of our membership situation as of 01/11/22! As we get closer to launching the DAO we are going to want accurate information for compensation and uMaster status! So below is a fairly detailed account of how many active, inactive, and semi-active members there are.
 
@@ -20,7 +20,7 @@ This list is to give us an accurate account of our membership situation as of 01
 
 This document will be posted in the SuperUMAn DAO discord for 1 week before going through the official governance process. During this time members can dispute and be reached out via pings/DMs. The community can then vote, via Discord emoji poll (51%), on the disputes at the end of the week and finalize the changes to the proposal. The proposal will then go through the SU governance process.
 
-Key
+**Key**
 
 *Inactive - Has not typed in the Discord in at least 4-6 weeks, the latter half of the last epoch, and is ineligible for compensation. (Their last active date is noted next to their name)
 
