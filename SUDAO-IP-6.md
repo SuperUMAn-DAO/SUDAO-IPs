@@ -24,7 +24,7 @@ This document is to ratify the membership tier change process for UMAsters.
 
 ## Changes to [SuperUMAn DAO - Design Principles]
 
-# Under Mechanism for Confirming Membership Tier changes:
+**Under Mechanism for Confirming Membership Tier changes:**
 
 **From:**
 
@@ -34,7 +34,7 @@ This document is to ratify the membership tier change process for UMAsters.
 
 1. Nominations for UMAsters open for 5 days and will be indicated by nomination or a self-nomination process through emoji, where if the number of nominations exceeds the number of spaces, a Discord poll for UMAsters will be conducted indicating the number of vacancies. If a Core SuperUMAn or UMAster is nominated by someone else then they need to accept the nomination by replying to the nomination & adding their emoji reaction, to be considered for the role. Nominees may only consist of current UMAsters and Core SuperUMAns. Only SuperUMAn tier and above may vote in the election. Those who receive the highest votes receive the UMAster places. In the event of a tie, a second poll will be run between the tied members.
 
-# Under Becoming Umaster:
+**Under Becoming Umaster:**
 
 **From:**
 
@@ -56,9 +56,9 @@ The promotions process will occur through a soft consensus based around a Discor
 
 UMAsters will be re-elected every quarter.
 
-# To be added Under Exiting the DAO after Reactivating SuperUMAn status:
+**To be added Under Exiting the DAO after Reactivating SuperUMAn status:**
 
-# UMAster Role Redesignation
+**UMAster Role Redesignation**
 
 In the event an existing UMAster does not get reelected during an UMAster election they will be redesignated to Core SuperUMAn which is solely a compensation level. Their UMAster NFT will be burned and replaced with a SuperUMAn NFT.
 
