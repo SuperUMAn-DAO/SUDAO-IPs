@@ -1,5 +1,6 @@
 ## SUDAO-IP-2.1 Expedited Governance
 **Author:** arcology
+
 **Status: Stage 3 - Formal Proposal**
 
 ## Changelog
