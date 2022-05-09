@@ -63,7 +63,8 @@ To calculate the floor price we need:
 
 33,660,000 * Floor price = 125M$
 
-Floor price = 125M$ / 33,660,000 = 3.71$ ```
+Floor price = 125M$ / 33,660,000 = 3.71$ 
+```
 
 ## TWAP Value
 
