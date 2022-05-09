@@ -8,7 +8,7 @@ In our [SuperUMAn DAO - Design Principles V2](https://docs.google.com/document/d
 
 This document is to ratify stablecoin compensation.
 
-- Change the wording in [SuperUMAn DAO - Design Principles V2](https://docs.google.com/document/d/1ykN_Uey3oPzNVeP_rBs2LYgViMRC2zflkoOiXdRiZC4/edit) under Compensation to Core Contributors to allow for more flexibility pertaining to compensation.Check under the “Changes to” section in this document.
+- Change the wording in [SuperUMAn DAO - Design Principles V2](https://docs.google.com/document/d/1ykN_Uey3oPzNVeP_rBs2LYgViMRC2zflkoOiXdRiZC4/edit) under Compensation to Core Contributors to allow for more flexibility pertaining to compensation. Check under the “Changes to” section in this document.
 
 ## Reasoning:
 
