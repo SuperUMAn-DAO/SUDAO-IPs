@@ -6,11 +6,11 @@ This proposal is to define the budget and compensation plan for epoch 2 of the S
 
 Here’s the DAO balances across it’s [Polygon](https://gnosis-safe.io/app/matic:0x7C7a1407c35B695E4eE530D80d4bd4C1aF8569E5/balances) and [Ethereum safes](https://gnosis-safe.io/app/eth:0x7C7a1407c35B695E4eE530D80d4bd4C1aF8569E5/balances):
 
-$UMA - 52,866
-$USDC - 22,386.27
-$MATIC - 1.97
-$ETH - 6.57
-$WETH - 1.61
+- $UMA - 52,866
+- $USDC - 22,386.27
+- $MATIC - 1.97
+- $ETH - 6.57
+- $WETH - 1.61
 
 **N.B:** 34,205 $UMA of the $52,866 is currently in 75,000 suINT-s & 2976.36 suINT-l as collateral with a proposal ongoing to unlock that collateral.
 
