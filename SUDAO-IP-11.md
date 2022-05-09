@@ -24,6 +24,6 @@ It is hereby put forth that the Treasury team’s Gnosis Multi-sig safe handles 
 
 Ratification of this proposal via quorum on a snapshot vote would trigger the SU DAO Treasury’s Polygon Safe to send 75,000 suINT short tokens and 2,976 suINT long tokens to the Treasury’s Team Gnosis Multi - Sig.
 
-Here’s the Treasury’s Team Gnosis Multi-sig Address:
+**Here’s the Treasury’s Team Gnosis Multi-sig Address:**
 
 [0x321Ae246673ab8F31A73d7bB5900C7B97D4AD38A](https://polygonscan.com/address/0x321Ae246673ab8F31A73d7bB5900C7B97D4AD38A)
