@@ -44,7 +44,7 @@ The floor price of 3.7$ per UMA was calculated as the price at which CoC = PfC. 
 
 **How we derived the price 3.7$**
 
-`CoC = Cost of Corruption = Cost to buy 51% of total $UMA tokens
+```CoC = Cost of Corruption = Cost to buy 51% of total $UMA tokens
 Total UMA circulating supply - 66,000,000 
 
 UMA’s price at the time of calculation - 6.4$
@@ -63,7 +63,7 @@ To calculate the floor price we need:
 
 33,660,000 * Floor price = 125M$
 
-Floor price = 125M$ / 33,660,000 = 3.71$ `
+Floor price = 125M$ / 33,660,000 = 3.71$ ```
 
 ## TWAP Value
 
