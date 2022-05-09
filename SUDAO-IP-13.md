@@ -87,7 +87,7 @@ If the Twap Value falls below 3,7 $UMA then the price used to calculate the numb
 - 805$/month for Core SuperUMAns
 - 421$/month for Basic SuperUMAns
 - 4551$/month for Full Timers
-- 
+
 Values have been pulled from the final working documents that were presented on Discord prior to this vote.
 
 [SU DAO - Compensation Structure (Epoch 2)](https://docs.google.com/spreadsheets/d/16mFdVp4CCJyKRmOMacoYQvFGph2hfYw55R3_xCCwkVE/edit?usp=sharing)
